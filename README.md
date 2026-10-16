@@ -18,8 +18,9 @@ the summary of the lab was to use code to create 1's and 2's complement using th
 ## Lab Questions
 
 ### 1 - Explain the differences between our Half Adder from last lab and the Half Subtractor from this lab.
-
+ A half adder calculate the sum of two 1-bit  binary numbers, an creates a carry out when were get an over flow. A half subtractor calculates the difference between two 1- Bit binary numbers, and generates a borrow out when a larger digit is subtracted from a smaller digit. 
 ### 2 - What about the end around carry of One’s Complement makes it hard to use and implement?
+
 
 ### 3 - What is the edge case and problem with Two’s Complement number representation?
 
