@@ -11,10 +11,10 @@ In this lab you've learned the basics of number theory as it relates to subtract
 | Question 2 | Your answers to the question | 25% |
 | Question 3 | Your answers to the question | 25% |
 
-## Names
+## Names Cesar and rafa
 
 ## Summary
-
+the summary of the lab was to use code to create 1's and 2's complement using the full adder that was created last week. In addition to this lab, we were suppose to create a subtractor that is suppose to invert our inputs and ad the 1 into our binary code.
 ## Lab Questions
 
 ### 1 - Explain the differences between our Half Adder from last lab and the Half Subtractor from this lab.
